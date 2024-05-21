@@ -1,0 +1,1383 @@
+    .all{
+      background-image:url("https://catherineasquithgallery.com/uploads/posts/2023-01/1674542642_catherineasquithgallery-com-p-korichnevii-fon-pod-starinu-66.jpg") ; 
+      width: 1920px;
+      height: 13500px;
+      background-size: 100%;
+    }
+
+    .popa{
+        position: absolute;
+        width: 115px;
+        height: 120px;
+        left: 67px;
+        right: 2073px;
+        top: 197px;
+        bottom: 763px;
+        border-radius: 60px;
+    }
+
+    .name{
+      background-color: rgb(151, 115, 0);
+      background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+      -webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      background-color: rgb(151, 115, 0);
+      position: absolute;
+      width: 382px;
+      height: 43px;
+      left: 211px;
+      right: 1662px;
+      top: 241px;
+      bottom: 826px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 36px;
+      font-weight: 400;
+      line-height: 43px;
+      letter-spacing: 0px;
+      text-align: center;
+    }
+
+    .diogen{
+      position: absolute;
+      width: 720px;
+      height: 516px;
+      left: 214px;
+      right: 964px;
+      top: 303px;
+      bottom: 111px;
+    }
+
+    .topic{
+      position: absolute;
+      width: 902px;
+      height: 58px;
+      left: 1028px;
+      right: 25px;
+      top: 259px;
+      bottom: 763px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .nameAvtor{
+      position: absolute;
+      width: 496px;
+      height: 58px;
+      left: 1390px;
+      right: 33px;
+      top: 317px;
+      bottom: 705px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .post{
+      position: absolute;
+      width: 691px;
+      height: 610px;
+      left: 1143px;
+      right: 121px;
+      top: 474px;
+      bottom: 133px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .elips{
+      position: absolute;
+width: 134px;
+height: 172px;
+left: -67px;
+right: 2188px;
+top: -21px;
+bottom: 929px;
+border-radius: 200px;
+    }
+
+    .elips2{
+      position: absolute;
+width: 134px;
+height: 172px;
+left: 1870px;
+right: -67px;
+top: -21px;
+bottom: 929px;
+border-radius: 200px;
+    }
+
+    .namePage{
+      background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+      -webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .nav{
+      position: absolute;
+      top: 10px;
+      left: 80px;
+      padding: 10px;
+      margin: 10px 45px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 75px;
+      width: 215px;
+     
+      background-color: rgb(141, 122, 78);
+     color: rgb(255, 3, 3);
+      cursor: pointer;
+      font-size: 40px;
+      text-align: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ub
+    }
+
+    .nav1{
+      position: absolute;
+      top: 10px;
+      left: 392px;
+      padding: 10px;
+      margin: 10px 45px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 75px;
+      width: 215px;
+     
+      background-color: rgb(141, 122, 78);
+     color: rgb(255, 3, 3);
+      cursor: pointer;
+      font-size: 40px;
+      text-align: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ub
+    }
+
+    .nav2{
+      position: absolute;
+      top: 10px;
+      left: 672px;
+      padding: 10px;
+      margin: 10px 45px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 75px;
+      width: 215px;
+     
+      background-color: rgb(141, 122, 78);
+     color: rgb(255, 3, 3);
+      cursor: pointer;
+      font-size: 40px;
+      text-align: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ub
+    }
+
+    .nav3{
+      position: absolute;
+      top: 10px;
+      left: 952px;
+      padding: 10px;
+      margin: 10px 45px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 75px;
+      width: 215px;
+     
+      background-color: rgb(141, 122, 78);
+     color: rgb(255, 3, 3);
+      cursor: pointer;
+      font-size: 40px;
+      text-align: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ub
+    }
+
+    .nav4{
+      position: absolute;
+      top: 10px;
+      left: 1232px;
+      padding: 10px;
+      margin: 10px 45px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 75px;
+      width: 215px;
+     
+      background-color: rgb(141, 122, 78);
+     color: rgb(255, 3, 3);
+      cursor: pointer;
+      font-size: 40px;
+      text-align: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ub
+    }
+
+    .nav5{
+      position: absolute;
+      top: 10px;
+      left: 1545px;
+      padding: 10px;
+      margin: 10px 45px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 75px;
+      width: 215px;
+     
+      background-color: rgb(141, 122, 78);
+     color: rgb(255, 3, 3);
+      cursor: pointer;
+      font-size: 40px;
+      text-align: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ub
+    }
+
+
+     
+
+      .face1{
+        position: absolute;
+width: 80px;
+height: 80px;
+left: 100px;
+right: 0;
+top: 265px;
+bottom: 0;
+      }
+
+      .song1{
+        position: absolute;
+width: 178px;
+height: 40px;
+left: 220px;
+right: 1857px;
+top: 246px;
+bottom: 794px;
+font-family: Holy Union;
+font-size: 36px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .ispol1{
+        position: absolute;
+width: 60px;
+height: 24px;
+left: 247px;
+right: 1952px;
+top: 300px;
+bottom: 764px;
+font-family: Holy Union;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .face2{
+        position: absolute;
+width: 80px;
+height: 80px;
+left: 100px;
+right: 0;
+top: 405px;
+bottom: 0;
+      }
+
+      .song2{  
+position: absolute;
+width: 147px;
+height: 43px;
+left: 243px;
+right: 1865px;
+top: 386px;
+bottom: 651px;
+font-family: Holy Union;
+font-size: 36px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .ispol2{
+        /* Гомер */
+position: absolute;
+width: 60px;
+height: 24px;
+left: 247px;
+right: 1952px;
+top: 442px;
+bottom: 614px;
+font-family: Holy Union;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .face3{
+        position: absolute;
+width: 80px;
+height: 80px;
+left: 100px;
+right: 1912px;
+top: 555px;
+bottom: 0;
+      }
+
+      .song3{
+        position: absolute;
+width: 160px;
+height: 43px;
+left: 243px;
+right: 1852px;
+top: 536px;
+bottom: 501px;
+font-family: Holy Union;
+font-size: 36px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .ispol3{
+        /* Риан Критский */
+position: absolute;
+width: 152px;
+height: 24px;
+left: 243px;
+right: 1860px;
+top: 590px;
+bottom: 477px;
+font-family: Holy Union;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .face4{
+        position: absolute;
+width: 80px;
+height: 80px;
+left: 100px;
+right: 0;
+top: 679px;
+bottom: 0;
+      }
+
+      .song4{
+        /* Ахаика */
+position: absolute;
+width: 125px;
+height: 43px;
+left: 243px;
+right: 1887px;
+top: 660px;
+bottom: 377px;
+font-family: Holy Union;
+font-size: 36px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .ispol4{
+        /* Риан Критский */
+position: absolute;
+width: 152px;
+height: 24px;
+left: 243px;
+right: 1860px;
+top: 713px;
+bottom: 353px;
+font-family: Holy Union;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .face5{
+        /* image.png */
+position: absolute;
+width: 80px;
+height: 80px;
+left: 551px;
+right: 0;
+top: 276px;
+bottom: 0;
+      }
+
+      .song5{
+        /* Untittled */
+position: absolute;
+width: 120px;
+height: 43px;
+left: 694px;
+right: 1441px;
+top: 257px;
+bottom: 780px;
+font-family: Holy Union;
+font-size: 36px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .ispol5{
+        /* Бабрий */
+position: absolute;
+width: 74px;
+height: 24px;
+left: 694px;
+right: 1487px;
+top: 305px;
+bottom: 764px;
+font-family: Holy Union;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .avatar{
+        /* Прямоугольник 4 */
+position: absolute;
+width: 423px;
+height: 416px;
+left: 96px;
+right: 1836px;
+top: 195px;
+bottom: 469px;
+      }
+
+      .myname{
+        /* Ζεύς */
+position: absolute;
+width: 205px;
+height: 116px;
+left: 540px;
+right: 1544px;
+top: 195px;
+bottom: 769px;
+font-family: Holy Union;
+font-size: 56px;
+font-weight: 400;
+line-height: 115px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      }
+
+      .statys{
+        /* С неизбежностью и боги не спорят. */
+position: absolute;
+width: 899px;
+height: 58px;
+left: 440px;
+right: 868px;
+top: 306px;
+bottom: 676px;
+font-family: Holy Union;
+font-size: 40px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      } 
+
+      .frAvatar{
+        width: 115px;
+        height: 120px;
+        border-radius: 60px;
+
+        position: absolute;
+        left: 105px;
+right: 2035px;
+top: 267px;
+bottom: 693px;
+      }
+
+      .frName{
+        font-family: Holy Union;
+font-size: 48px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+
+
+        position: absolute;
+width: 291px;
+height: 58px;
+left: 260px;
+right: 1684px;
+top: 295px;
+bottom: 724px;
+      }
+      .frAvatar1{
+        /* Эллипс 2 */
+position: absolute;
+width: 115px;
+height: 120px;
+left: 105px;
+right: 2035px;
+top: 450px;
+bottom: 693px;
+
+border-radius: 60px;
+      }
+
+      .frName1{
+        font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+
+        /* Σωκράτης */
+position: absolute;
+width: 238px;
+height: 58px;
+left: 268px;
+right: 1749px;
+top: 480px;
+bottom: 549px;
+      }
+
+      .frAvatar2{
+        border-radius: 60px;
+        /* Эллипс 2 */
+position: absolute;
+width: 115px;
+height: 120px;
+left: 105px;
+right: 2035px;
+top: 648px;
+bottom: 343px;
+
+      }
+
+      .frName2{
+        font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            /* Πλάτων */
+position: absolute;
+width: 174px;
+height: 58px;
+left: 280px;
+right: 1801px;
+top: 678px;
+bottom: 374px;
+      }
+
+      .frAvatar3{
+        border-radius: 60px;
+        /* Эллипс 2 */
+position: absolute;
+width: 115px;
+height: 120px;
+left: 105px;
+
+top: 823px;
+bottom: 168px;
+      }
+
+      .frName3{
+        font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            /* Ἱπποκράτης, */
+position: absolute;
+width: 282px;
+height: 58px;
+left: 260px;
+right: 1693px;
+top: 853px;
+bottom: 199px;
+      }
+
+      .frAvatar4{
+        border-radius: 60px;
+        /* Эллипс 2 */
+position: absolute;
+width: 115px;
+height: 120px;
+left: 798px;
+right: 1342px;
+top: 267px;
+bottom: 693px;
+      }
+
+      .frName4{
+        font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+        /* Ἀρχιμήδης */
+position: absolute;
+width: 245px;
+height: 58px;
+left: 973px;
+right: 1037px;
+top: 297px;
+bottom: 724px;
+      }
+
+      .frAvatar5{
+        border-radius: 60px;
+        /* Эллипс 2 */
+position: absolute;
+width: 115px;
+height: 120px;
+left: 798px;
+right: 1342px;
+top: 442px;
+bottom: 518px;
+      }
+
+    .frName5{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            /* Δημόκριτος */
+position: absolute;
+width: 263px;
+height: 58px;
+left: 973px;
+right: 1019px;
+top: 472px;
+bottom: 563px;
+    }
+
+    .frAvatar6{
+      border-radius: 60px;
+      /* Эллипс 2 */
+position: absolute;
+width: 115px;
+height: 120px;
+left: 798px;
+right: 1342px;
+top: 648px;
+bottom: 343px;
+
+    }
+
+    .frName6{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            /* Ἀλέξανδρος Γ' ὁ Μέγας; */
+position: absolute;
+width: 555px;
+height: 58px;
+left: 959px;
+right: 741px;
+top: 678px;
+bottom: 374px;
+    }
+
+    .newPassword{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+      position: absolute;
+      top: 300px;
+      left: 200px;
+      
+    }
+
+    input[type="password"] {
+      font-family: Holy Union;
+        font-size: 36px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+      
+      width: 100%;
+    padding: 10px;
+    margin: 10px 30px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 75px;
+    width: 600px;
+    
+    }
+
+    .pass{
+      position: absolute;
+      top: 100px;
+    left: 660px;
+    }
+
+    .newpass{
+      position: absolute;
+      top: 250px;
+      left: 660px;
+    }
+
+    .newpass1{
+      position: absolute;
+      top: 400px;
+      left: 660px;
+    }
+
+    .save{
+      position: absolute;
+      top: 550px;
+      left: 830px;
+      font-family: Holy Union;
+        font-size: 40px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+    }
+
+    .back{
+      position: absolute;
+      top: 750px;
+      left: 170px;
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+    }
+
+    .out{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+      position: absolute;
+      top: 000px;
+      left: 800px;
+      width: 700px;
+
+    }
+
+    .answ{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            position: absolute;
+      top: 300px;
+      left: 600px;
+      width: 700px;
+    }
+
+    .no{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            position: absolute;
+            top: 500px;
+            left: 700px;
+    }
+
+    .yes{
+      font-family: Holy Union;
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0px;
+        text-align: center;
+        background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+        -webkit-background-clip:
+            text;
+            -webkit-text-fill-color:
+            transparent;
+            background-clip:
+            text;
+            position: absolute;
+            top: 500px;
+            left: 1150px;
+    }
+
+    .platon{
+      position: absolute;
+        width: 115px;
+        height: 120px;
+        left: 67px;
+        right: 2073px;
+        top: 1247px;
+        bottom: 763px;
+        border-radius: 60px;
+    }
+
+    .name1{
+      background-color: rgb(151, 115, 0);
+      background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+      -webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+      background-color: rgb(151, 115, 0);
+      position: absolute;
+      width: 382px;
+      height: 43px;
+      left: 131px;
+      right: 1662px;
+      top: 1291px;
+      bottom: 826px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-size: 36px;
+      font-weight: 400;
+      line-height: 43px;
+      letter-spacing: 0px;
+      text-align: center;
+    }
+
+    .platonTopic{
+      position: absolute;
+      width: 720px;
+      height: 516px;
+      left: 214px;
+      right: 964px;
+      top: 1353px;
+      bottom: 111px;
+    }
+
+    .topic1{
+      position: absolute;
+      width: 902px;
+      height: 58px;
+      left: 1028px;
+      right: 25px;
+      top: 1320px;
+      bottom: 763px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 48px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .nameAvtor1{
+      position: absolute;
+      width: 496px;
+      height: 58px;
+      left: 1325px;
+      right: 33px;
+      top: 1390px;
+      bottom: 705px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 48px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .post1{
+      position: absolute;
+      width: 691px;
+      height: 610px;
+      left: 1143px;
+      right: 121px;
+      top: 1540px;
+      bottom: 133px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .diogenAvatar{
+      position: absolute;
+width: 423px;
+height: 416px;
+left: 96px;
+right: 1836px;
+top: 195px;
+bottom: 469px;
+    }
+
+    .diogenName{
+      position: absolute;
+width: 505px;
+height: 116px;
+left: 576px;
+right: 1544px;
+top: 195px;
+bottom: 769px;
+font-family: Holy Union;
+font-size: 56px;
+font-weight: 400;
+line-height: 115px;
+letter-spacing: 0px;
+
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .diogenStatus{
+      position: absolute;
+width: 899px;
+height: 58px;
+left: 300px;
+right: 868px;
+top: 310px;
+bottom: 676px;
+font-family: Holy Union;
+font-size: 40px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .postPhoto{
+      position: absolute;
+      width: 720px;
+      height: 516px;
+      left: 96px;
+      right: 964px;
+      top: 803px;
+      bottom: 111px;
+    }
+
+    .postName{
+      position: absolute;
+      width: 902px;
+      height: 58px;
+      left: 1028px;
+      right: 25px;
+      top: 759px;
+      bottom: 763px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .postText{
+      position: absolute;
+      width: 691px;
+      height: 610px;
+      left: 1143px;
+      right: 121px;
+      top: 844px;
+      bottom: 133px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .gipStatus{
+      position: absolute;
+width: 899px;
+height: 58px;
+left: 335px;
+right: 868px;
+top: 310px;
+bottom: 676px;
+font-family: Holy Union;
+font-size: 40px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+    .sokratStatus{
+      position: absolute;
+      width: 899px;
+      height: 58px;
+      left: 250px;
+      right: 868px;
+      top: 310px;
+      bottom: 676px;
+      font-family: Holy Union;
+      font-size: 40px;
+      font-weight: 400;
+      line-height: 58px;
+      letter-spacing: 0px;
+      text-align: center;
+      background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+      -webkit-background-clip:
+          text;
+          -webkit-text-fill-color:
+          transparent;
+          background-clip:
+          text;
+    }
+
+    .arximedStatus{
+      position: absolute;
+      width: 850px;
+      height: 200px;
+      left: 570px;
+      
+      
+      top: 310px;
+      bottom: 676px;
+      font-family: Holy Union;
+      font-size: 40px;
+      font-weight: 400;
+      line-height: 58px;
+      letter-spacing: 0px;
+      text-align: left;
+      background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+      -webkit-background-clip:
+          text;
+          -webkit-text-fill-color:
+          transparent;
+          background-clip:
+          text;
+    }
+
+    .alexandrName{
+      position: absolute;
+width: 700px;
+height: 116px;
+left: 576px;
+right: 1544px;
+top: 195px;
+bottom: 769px;
+font-family: Holy Union;
+font-size: 56px;
+font-weight: 400;
+line-height: 115px;
+letter-spacing: 0px;
+
+background: linear-gradient(180.00deg, rgb(0, 0, 0),rgb(255, 0, 0));
+-webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    }
+
+
+
+
